@@ -407,7 +407,7 @@ form input[type="button"] {
     font-size: 50px;
     color: #2245f4;
     font-weight: bold;
-    padding:0px 70px;
+    padding: 0px 70px;
 }
 
 .satatistic-item p {
@@ -415,5 +415,339 @@ form input[type="button"] {
     vertical-align: middle;
     font-size: 12px;
     color: #000000;
-    padding:0px 70px;
+    padding: 0px 70px;
+}
+
+
+
+
+.service_section {
+    background-color: rgb(194, 236, 222);
+    border-radius: 15px;
+}
+
+.title-section-service {
+    width: 125px;
+    padding: 4px;
+    color: white;
+    border: 1.8px solid rgb(51, 162, 81);
+    background-color: #37b76d;
+    border-radius: 12px 12px 0px 12px;
+}
+
+.left-service {
+    padding-top: 20px;
+    position: relative;
+    margin-left: 135px;
+}
+
+.service_section h1 {
+    color: #0251fa;
+}
+
+.right-service {
+    position: relative;
+    margin-top: -50px;
+    margin-left: 755px;
+}
+
+
+.services-item {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 130px;
+}
+
+.services-item img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.services-item2 {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: -254px;
+    margin-left: 500px;
+}
+
+.services-item2 img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item2 h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item2 h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item2 h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+
+.services-item3 {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: -254px;
+    margin-left: 880px;
+}
+
+.services-item3 img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item3 h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item3 h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item3 h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.services-item4 {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 130px;
+}
+
+.services-item4 img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item4 h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item4 h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item4 h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.services-item5 {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: -254px;
+    margin-left: 500px;
+}
+
+.services-item5 img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item5 h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item5 h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item5 h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.services-item6 {
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: -254px;
+    margin-left: 880px;
+}
+
+.services-item6 img {
+    background-color: white;
+    width: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.services-item6 h2 {
+    color: #7cabecc8;
+    font-size: 50px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 230px;
+}
+
+.services-item6 h3 {
+    color: #002fffc8;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+
+.services-item6 h4 {
+    color: #fb5656;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border: 1px solid #fb5656;
+    border-radius: 35px;
+    width: 140px;
+    padding: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#a5 {
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+#a5 {
+    background-color: rgb(234, 63, 63);
+    border: none;
+    width: 180px;
+    margin-left: 550px;
+    margin-top: 50px;
+    margin-bottom: 40px;
 }
