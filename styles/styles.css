@@ -216,29 +216,30 @@ header {
     border-radius: 12px 12px 0px 0px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     width: 450px;
+    height: 341px;
+    text-align: center; 
 }
 
 .input-group {
-    position: relative;
+    width: 100%;
     margin-bottom: 15px;
+    white-space: nowrap; 
 }
 
-
-form select,
-form input[type="date"],
-form input[type="time"] {
-    width: 50%;
+.input-group select,
+.input-group input {
+    display: inline-block;
+    width: 48%; 
     padding: 10px 10px 10px 40px;
     font-size: 14px;
     border: 1px solid #ccc;
     border-radius: 10px;
-    margin-top: 5px;
+    margin: 5px 1%;
+    box-sizing: border-box;
 }
 
 form input[type="button"] {
-
-    margin-top: 20px;
-    margin-left: 90px;
+    margin-top: 45px;
     width: 60%;
     padding: 10px;
     background-color: #ff6b5a;
@@ -247,7 +248,27 @@ form input[type="button"] {
     border-radius: 20px;
     cursor: pointer;
 }
+.input-group img{
+    width: 25px;
+}
+#icon-date{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 2%;
+}
+#icon-date2{
+    width: 25px;
+    position: absolute;
+    margin-left: -175px;
+    margin-top: 2%;
+}
 
+#icon-date3{
+    width: 25px;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: -12%;
+}
 
 .logos {
     margin-top: 270px;
@@ -1074,4 +1095,51 @@ form input[type="button"] {
     color: white;
     border-radius: 50px;
     cursor: pointer;
+}
+
+.title-section-pricing{
+    width: 125px;
+    padding: 7px;
+    padding-left: 25px;
+    color: white;
+    border: 1.8px solid rgb(51, 162, 81);
+    background-color: #37b76d;
+    border-radius: 12px 12px 0px 12px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.pricing h1{
+    color: #0259fa;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+
+.para-section-pricing{
+
+    margin-left: 650px;
+    margin-top: -60px;
+}
+
+
+.ligne-pricing{
+    border: 1px solid rgb(197, 194, 194);
+    width: 250px;
+    border-radius: 12px;;
+    margin-left: 10px;
+    margin-top: 27px;
+    padding: 15px;
+}
+
+#ligneF{
+ color: rgb(0, 98, 255);
+ margin-top: 8px;
+ margin-bottom: 8px;
+ border-top:1px solid rgb(197, 194, 194) ;
+}
+
+.ligne-pricing h2{
+    margin-bottom: 8px;
+    color: #0269fa;
 }
