@@ -11,18 +11,18 @@ body {
 }
 
 .backg-img {
-  position: relative;
-  width: 100%;
-  height: auto;
+    position: relative;
+    width: 100%;
+    height: auto;
 }
 
 .backg-img img {
-  width: 36%;
-  margin-top: 72px;
-  float: right;
-  margin-right: 100px;
-  z-index: 1;
-  position: relative;
+    width: 36%;
+    margin-top: 72px;
+    float: right;
+    margin-right: 100px;
+    z-index: 1;
+    position: relative;
 }
 
 header {
@@ -187,157 +187,160 @@ header {
 }
 
 .horloge img {
-    display: inline-block;     
+    display: inline-block;
     width: 46px;
-    vertical-align: middle;     
+    vertical-align: middle;
 }
 
 .hours1 {
-    display: inline-block;     
-    vertical-align: middle;    
-    margin-left: 15px;         
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
     color: white;
 }
-.Form-doctors-Availability{
+
+.Form-doctors-Availability {
     background-color: white;
     display: inline-block;
-    border-radius: 12px 12px  0px 0px;
+    border-radius: 12px 12px 0px 0px;
 
 }
 
 .backg-img form {
-  position: absolute;
-  top: 380px;
-  left: 690px;
-  z-index: 2;
-  background-color: white;
-  padding: 30px 40px;
-  border-radius: 12px 12px 0px 0px ;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
-  width: 450px;
+    position: absolute;
+    top: 380px;
+    left: 690px;
+    z-index: 2;
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 12px 12px 0px 0px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 450px;
 }
 
 .input-group {
-  position: relative;
-  margin-bottom: 15px;
+    position: relative;
+    margin-bottom: 15px;
 }
 
 
 form select,
 form input[type="date"],
 form input[type="time"] {
-  width: 50%;
-  padding: 10px 10px 10px 40px;
-  font-size: 14px;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  margin-top: 5px;
+    width: 50%;
+    padding: 10px 10px 10px 40px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 5px;
 }
 
 form input[type="button"] {
 
-  margin-top: 20px;
-  margin-left: 90px;
-  width: 60%;
-  padding: 10px;
-  background-color: #ff6b5a;
-  color: white;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 60%;
+    padding: 10px;
+    background-color: #ff6b5a;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
 }
 
 
 .logos {
-  margin-top: 270px;
-  text-align: center;
+    margin-top: 270px;
+    text-align: center;
 }
 
 .logo-item {
-  display: inline-block;
-  margin: 20px;
-  text-align: left;
-  vertical-align: middle;
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+    vertical-align: middle;
 }
 
 .logo-item img {
-  width: 80px;
-  vertical-align: middle;
+    width: 80px;
+    vertical-align: middle;
 }
 
 .logo-item p {
-  display: inline-block;
-  margin-left: 10px;
-  vertical-align: middle;
-  font-size: 20px;
-  color: #02c9fa;
-  font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #02c9fa;
+    font-weight: bold;
 }
 
 .about-section {
- background-color: rgb(194, 236, 222);
- border-radius: 15px;
+    background-color: rgb(194, 236, 222);
+    border-radius: 15px;
 }
 
 .main-img {
- width: 650px;
- padding-left: 190px;
- height: 240px;
-}
-.exp-img {
- width: 390px;
- padding-left: 190px;
- height: 240px;
- border-radius: 20px 0px 20px 0px;
+    width: 650px;
+    padding-left: 190px;
+    height: 240px;
 }
 
-.vedioPlay{
+.exp-img {
+    width: 390px;
+    padding-left: 190px;
+    height: 240px;
+    border-radius: 20px 0px 20px 0px;
+}
+
+.vedioPlay {
     width: 50px;
     position: absolute;
     margin-left: -200px;
     margin-top: 196px;
 }
 
-.exp-text{
+.exp-text {
     background-color: rgb(109, 233, 144);
     width: 170px;
     padding: 14px;
     color: white;
     position: absolute;
     margin-top: -185px;
-    font-size:20px;
+    font-size: 20px;
     border-radius: 10px 10px 10px 0px;
     margin-left: 375px;
 
 }
 
-.tag{
-    background-color:  rgb(109, 233, 144);
+.tag {
+    background-color: rgb(109, 233, 144);
     width: 100px;
     padding: -10px;
     border-radius: 12px 12px 0px 12px;
-    border:1.5px solid #37b76d;
+    border: 1.5px solid #37b76d;
     color: white;
 }
-.about-right{
+
+.about-right {
     margin-top: -480px;
     margin-left: 700px;
 }
 
-.about-right h2{
-   color: rgb(0, 145, 255);
-   font-weight: bold;
-   font-size: xx-large;
+.about-right h2 {
+    color: rgb(0, 145, 255);
+    font-weight: bold;
+    font-size: xx-large;
 }
 
-.about-right p{
+.about-right p {
     padding: 10px 0px;
 }
 
 .people img {
     width: 50px;
-       
-} 
+
+}
 
 #persone2 {
     border: 1px solid rgb(3, 252, 127);
@@ -356,6 +359,7 @@ form input[type="button"] {
     color: #0269fa;
 
 }
+
 .role img {
     width: 20px;
     padding-top: 22px;
@@ -378,4 +382,38 @@ form input[type="button"] {
     width: 160px;
     margin-left: 20px;
     margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+
+
+.satatistic {
+    text-align: center;
+}
+
+.satatistic-item {
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+
+
+.satatistic-item h1 {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-size: 50px;
+    color: #2245f4;
+    font-weight: bold;
+    padding:0px 70px;
+}
+
+.satatistic-item p {
+    margin-left: 16px;
+    vertical-align: middle;
+    font-size: 12px;
+    color: #000000;
+    padding:0px 70px;
 }
