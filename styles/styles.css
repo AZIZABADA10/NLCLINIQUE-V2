@@ -763,11 +763,12 @@ form input[type="button"] {
 }
 
 
-.head-of-doctors{
+.head-of-doctors {
     padding-top: 20px;
     margin-left: 550px;
 }
-.head-of-doctors pre{
+
+.head-of-doctors pre {
     color: #2266f8;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -777,9 +778,9 @@ form input[type="button"] {
 }
 
 
-.doctos-item{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -792,22 +793,22 @@ form input[type="button"] {
     padding-top: 10px;
 }
 
-.doctors-images{
+.doctors-images {
     margin-left: 220px;
 }
 
-.doctos-item h2{
+.doctos-item h2 {
     color: #0269fa;
     padding-left: 30px;
 }
 
-.doctos-item h4{
+.doctos-item h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item p{
+.doctos-item p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -816,9 +817,9 @@ form input[type="button"] {
 }
 
 
-.doctos-item2{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item2 {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -832,18 +833,18 @@ form input[type="button"] {
     padding-top: 10px;
 }
 
-.doctos-item2 h2{
+.doctos-item2 h2 {
     color: #0269fa;
     padding-left: 30px;
 }
 
-.doctos-item2 h4{
+.doctos-item2 h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item2 p{
+.doctos-item2 p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -852,9 +853,9 @@ form input[type="button"] {
 }
 
 
-.doctos-item3{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item3 {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -868,20 +869,20 @@ form input[type="button"] {
     padding-top: 10px;
 }
 
-.doctos-item3 h2{
+.doctos-item3 h2 {
     color: #0269fa;
     padding-left: 20px;
     font-weight: bold;
-    font-size:x-large;
+    font-size: x-large;
 }
 
-.doctos-item3 h4{
+.doctos-item3 h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item3 p{
+.doctos-item3 p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -892,9 +893,9 @@ form input[type="button"] {
 /* doctors secend row*/
 
 
-.doctos-item4{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item4 {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -909,18 +910,18 @@ form input[type="button"] {
 
 
 
-.doctos-item4 h2{
+.doctos-item4 h2 {
     color: #0269fa;
     padding-left: 30px;
 }
 
-.doctos-item4 h4{
+.doctos-item4 h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item4 p{
+.doctos-item4 p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -929,9 +930,9 @@ form input[type="button"] {
 }
 
 
-.doctos-item5{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item5 {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -945,18 +946,18 @@ form input[type="button"] {
     padding-top: 10px;
 }
 
-.doctos-item5 h2{
+.doctos-item5 h2 {
     color: #0269fa;
     padding-left: 30px;
 }
 
-.doctos-item5 h4{
+.doctos-item5 h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item5 p{
+.doctos-item5 p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -965,9 +966,9 @@ form input[type="button"] {
 }
 
 
-.doctos-item6{
-    border: 1px solid  rgb(194, 236, 222);
-    background-color: rgba(194, 236, 222, 0.749) ;
+.doctos-item6 {
+    border: 1px solid rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749);
     border-radius: 20px;
     height: 350px;
     width: 230px;
@@ -981,20 +982,20 @@ form input[type="button"] {
     padding-top: 10px;
 }
 
-.doctos-item6 h2{
+.doctos-item6 h2 {
     color: #0269fa;
     padding-left: 20px;
     font-weight: bold;
-    font-size:x-large;
+    font-size: x-large;
 }
 
-.doctos-item6 h4{
+.doctos-item6 h4 {
     color: orangered;
     padding-left: 65px;
     padding-top: 10px;
 }
 
-.doctos-item6 p{
+.doctos-item6 p {
     color: #070c13;
     padding-left: 30px;
     padding-top: 10px;
@@ -1021,4 +1022,56 @@ form input[type="button"] {
     margin-left: 310px;
     margin-top: 50px;
     margin-bottom: 40px;
+}
+
+.background-bleu {
+    width: 600px;
+    height: 300px;
+}
+
+.background-bleu-doctor {
+    width: 448px;
+    height: 300px;
+    margin-left: -6px;
+}
+
+.appoi-doctors {
+    margin-left: 95px;
+}
+
+.appoi-doctors h2 {
+    position: absolute;
+    margin-left: 95px;
+    margin-top: -250px;
+    color: white;
+    font-size: 250%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.appoi-doctors p {
+    position: absolute;
+    margin-left: 95px;
+    margin-top: -140px;
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#book2 {
+    border: 1px solid white;
+    border-radius: 20px;
+    height: 50px;
+    padding: 10px;
+    background-color: white;
+    color: #0269fa;
+    cursor: pointer;
+}
+
+#fleche2 {
+    background-color: #0269fa;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
 }
