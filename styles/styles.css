@@ -751,3 +751,274 @@ form input[type="button"] {
     margin-top: 50px;
     margin-bottom: 40px;
 }
+
+
+.title-section-doctors {
+    width: 125px;
+    padding: 4px;
+    color: white;
+    border: 1.8px solid rgb(51, 162, 81);
+    background-color: #37b76d;
+    border-radius: 12px 12px 0px 12px;
+}
+
+
+.head-of-doctors{
+    padding-top: 20px;
+    margin-left: 550px;
+}
+.head-of-doctors pre{
+    color: #2266f8;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: -45px;
+    margin-top: 10px;
+}
+
+
+.doctos-item{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: 40px;
+}
+
+#doc {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.doctors-images{
+    margin-left: 220px;
+}
+
+.doctos-item h2{
+    color: #0269fa;
+    padding-left: 30px;
+}
+
+.doctos-item h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+
+.doctos-item2{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: -350px;
+    margin-left: 280px;
+}
+
+#doc2 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.doctos-item2 h2{
+    color: #0269fa;
+    padding-left: 30px;
+}
+
+.doctos-item2 h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item2 p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+
+.doctos-item3{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: -350px;
+    margin-left: 550px;
+}
+
+#doc3 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.doctos-item3 h2{
+    color: #0269fa;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.doctos-item3 h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item3 p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+/* doctors secend row*/
+
+
+.doctos-item4{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: 40px;
+}
+
+#doc4 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+
+
+.doctos-item4 h2{
+    color: #0269fa;
+    padding-left: 30px;
+}
+
+.doctos-item4 h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item4 p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+
+.doctos-item5{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: -350px;
+    margin-left: 280px;
+}
+
+#doc5 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.doctos-item5 h2{
+    color: #0269fa;
+    padding-left: 30px;
+}
+
+.doctos-item5 h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item5 p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+
+.doctos-item6{
+    border: 1px solid  rgb(194, 236, 222);
+    background-color: rgba(194, 236, 222, 0.749) ;
+    border-radius: 20px;
+    height: 350px;
+    width: 230px;
+    margin-top: -350px;
+    margin-left: 550px;
+}
+
+#doc6 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.doctos-item6 h2{
+    color: #0269fa;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.doctos-item6 h4{
+    color: orangered;
+    padding-left: 65px;
+    padding-top: 10px;
+}
+
+.doctos-item6 p{
+    color: #070c13;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: small;
+}
+
+
+#a6 {
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+#a6 {
+    background-color: rgb(234, 63, 63);
+    border: none;
+    width: 180px;
+    margin-left: 310px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
