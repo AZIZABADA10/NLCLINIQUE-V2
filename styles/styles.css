@@ -1487,3 +1487,126 @@ textarea {
 .send-btn:hover {
   background-color: #ff5c4d;
 }
+/*footer */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
+.footer {
+  background-color: #f9fcff;
+  padding: 60px 80px;
+  color: #333;
+  font-family: "Poppins", sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.footer-left {
+  flex: 1.2;
+  min-width: 280px;
+}
+
+.footer-logo img {
+  width: 180px;
+  margin-bottom: 20px;
+}
+
+.subscribe-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.subscribe-box input {
+  flex: 1;
+  padding: 10px 15px;
+  border: 1px solid #0670f1;
+  border-radius: 30px;
+  outline: none;
+}
+
+.subscribe-box button {
+  margin-left: 10px;
+  background-color: #2b70d100;
+  color: rgb(8, 0, 254);
+  border: 1px solid darkblue;
+  padding: 10px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.subscribe-box button:hover {
+  background-color: #1f56a4;
+}
+
+.footer-left p {
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: #2b6fd1;
+  font-size: 20px;
+  margin-right: 15px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #1f56a4;
+}
+
+.footer-right {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
+  flex: 2;
+}
+
+.footer-column h3 {
+  font-size: 16px;
+  color: #2b6fd1;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.footer-column h3::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 25px;
+  height: 2px;
+  background-color: #2b6fd1;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 8px;
+}
+
+.footer-column ul li a {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.footer-column ul li a:hover {
+  color: #2b6fd1;
+}
+
+.footer-column p {
+  font-size: 14px;
+  color: #555;
+}
+
