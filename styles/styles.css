@@ -1400,6 +1400,14 @@ form input[type="button"] {
   background-position: center;
 }
 
+.book-appoi2 {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-size: cover;
+  background-position: center;
+}
 
 .appointment-container {
   background-color: #fff;
