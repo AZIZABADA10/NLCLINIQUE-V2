@@ -445,7 +445,15 @@ form input[type="button"] {
     background-color: rgb(194, 236, 222);
     border-radius: 15px;
 }
-
+.title-section-service2 {
+    color: white;
+    width: 135px;
+    padding: 7px;
+    margin-left: 70px;
+    border: 1.8px solid rgb(51, 162, 81);
+    background-color: #37b76d;
+    border-radius: 12px 12px 0px 12px;
+}
 .title-section-service {
     width: 125px;
     padding: 4px;
