@@ -1488,10 +1488,9 @@ textarea {
   background-color: #ff5c4d;
 }
 /*footer */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
 
 .footer {
-  background-color: #f9fcff;
+  background-color:  rgb(194, 236, 222);
   padding: 60px 80px;
   color: #333;
   font-family: "Poppins", sans-serif;
