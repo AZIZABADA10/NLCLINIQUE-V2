@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.en-haut img{
+    width: 40px;
+    position: fixed;
+    margin-left: 995px;
+    color: white;
+    margin-top: 499px;
+}
 body {
     background-image: url("../Images/Background.png");
     background-repeat: no-repeat;
